@@ -35,14 +35,6 @@ To run these simulations, you will need MATLAB installed on your computer. Each 
 
 Each script generates visual outputs that represent the dynamic positioning and motion of the trucks and any other vehicles involved in the scenario. The visualization helps in understanding the response of the platoon to various simulated traffic conditions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any bug fixes, enhancements, or suggestions.
-
 ## Contact
 
 For any questions or issues, please contact Pranjal Ghan at pranjalghan100@gmail.com.
